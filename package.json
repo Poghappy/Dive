@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
-    "@aws-sdk/client-bedrock": "^3.791.0",
+    "@aws-sdk/client-bedrock": "^3.896.0",
     "@codemirror/lang-json": "^6.0.1",
     "@codemirror/lint": "^6.8.4",
     "@mistralai/mistralai": "^1.5.1",
